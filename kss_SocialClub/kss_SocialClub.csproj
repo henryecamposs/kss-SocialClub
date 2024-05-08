@@ -1,0 +1,1366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{31D5D3C8-99AB-45E7-973A-D423CCD11B38}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>kss_SocialClub</RootNamespace>
+    <AssemblyName>kss SocialClub</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>kss_SocialClub.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper, Version=7.0.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Libs\AutoMapper.7.0.1\lib\net45\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Dapper, Version=1.50.5.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Libs\Dapper.1.50.5\lib\net451\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Dapper.Contrib, Version=1.50.5.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Libs\Dapper.Contrib.1.50.5\lib\net451\Dapper.Contrib.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar.Layout, Version=14.1.0.14, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\kss_BigPOS\libs\DotNetBar 14.1.0.14\DevComponents.DotNetBar.Layout.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=14.1.0.14, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\kss_BigPOS\libs\DotNetBar 14.1.0.14\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.SuperGrid.Design, Version=14.1.0.14, Culture=neutral, PublicKeyToken=26d81176cfa2b486, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\kss_BigPOS\libs\DotNetBar 14.1.0.14\DevComponents.SuperGrid.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Libs\EntityFramework.6.1.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="kssKeyboard, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\kss_BigPOS\libs\kssKeyboard.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Libs\MaterialSkin.Net4.1.0.0\lib\net40\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="MoralesLarios.Data, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Libs\MoralesLarios.Data.1.0.0.2\lib\net452\MoralesLarios.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MoralesLarios.Data.Dapper, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Libs\MoralesLarios.Data.Dapper.1.0.0.5\lib\net452\MoralesLarios.Data.Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Libs\Newtonsoft.Json.6.0.8\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Data.SQLite, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\kss_BigPOS\libs\System.Data.SQLite.Core.1.0.108.0\lib\net451\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\kss_BigPOS\libs\System.Data.SQLite.EF6.1.0.108.0\lib\net451\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\kss_BigPOS\libs\System.Data.SQLite.Linq.1.0.108.0\lib\net451\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Libs\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UI\clsControlUI.cs" />
+    <Compile Include="UI\clsUtil.cs" />
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reciclado\frmAsistencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reciclado\frmAsistencia.Designer.cs">
+      <DependentUpon>frmAsistencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Dialogs\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Dialogs\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reciclado\frmPOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reciclado\frmPOS.Designer.cs">
+      <DependentUpon>frmPOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Templates\DialogoOK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Templates\DialogoOK.designer.cs">
+      <DependentUpon>DialogoOK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Templates\dlgEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Templates\dlgEdit.designer.cs">
+      <DependentUpon>dlgEdit.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reciclado\frmAsistencia.resx">
+      <DependentUpon>frmAsistencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Dialogs\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reciclado\frmPOS.resx">
+      <DependentUpon>frmPOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Templates\DialogoOK.resx">
+      <DependentUpon>DialogoOK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Templates\dlgEdit.resx">
+      <DependentUpon>dlgEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Data\db\kssClubSocial.db" />
+    <None Include="Libs\System.Data.SQLite.Core.1.0.108.0\lib\net451\System.Data.SQLite.dll.config" />
+    <None Include="Libs\System.Data.SQLite.Core.1.0.108.0\lib\net45\System.Data.SQLite.dll.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_09.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_34.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_36.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_37.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_38.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_39.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_42.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_43.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_44.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_45.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_46.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_47.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_49.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_51.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_52.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_53.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_54.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_55.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_56.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_57.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_58.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_59.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_61.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_62.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_63.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_65.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_66.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_67.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_68.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_69.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_70.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_71.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_72.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_73.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_74.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_75.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_76.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_77.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_78.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_79.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_81.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_82.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_83.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_84.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_85.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_86.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_87.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_88.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_89.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_90.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_91.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_92.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_93.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_94.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_95.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_97.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_98.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_99.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_101.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_102.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_103.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_104.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_105.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_106.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_107.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_108.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_109.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_110.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_111.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_112.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_113.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_114.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_115.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_116.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_117.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_118.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_119.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_120.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_122.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_123.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_124.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_125.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_126.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_127.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_130.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_131.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_132.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_133.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_134.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_135.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_136.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_137.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_138.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_139.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_140.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_141.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_142.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_143.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_144.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_145.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_146.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_147.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_148.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_149.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_150.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_151.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_152.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_153.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_154.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_155.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_156.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_157.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_158.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_159.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_160.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_162.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_163.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_164.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_165.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_166.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_167.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_169.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_170.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_171.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_172.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_173.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_174.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_175.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_176.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_177.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_178.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_179.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_180.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_181.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_182.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_183.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_184.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_185.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_186.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_187.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_188.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_189.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_190.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_191.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_192.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_193.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_194.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_195.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_196.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_197.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_198.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_199.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_201.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_202.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_203.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_204.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_205.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_206.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_207.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_208.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_209.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_210.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_211.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_212.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_213.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_214.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_215.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_216.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_217.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_218.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_219.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_220.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_221.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_222.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_223.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_224.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_225.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_226.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_227.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_228.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_229.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_230.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_231.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_232.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_233.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_234.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_235.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_236.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_237.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_238.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_239.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_240.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_241.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_242.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_243.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_244.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_245.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_246.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_247.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_248.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_249.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_250.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_251.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_252.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_253.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_254.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_255.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_257.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_258.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_259.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_260.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_261.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_262.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_263.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_264.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_265.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_266.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_267.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_268.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_269.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_270.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_271.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_272.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_273.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_274.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_275.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_276.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_277.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_278.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_279.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_280.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_281.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_282.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_283.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_284.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_285.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_286.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_287.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_288.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_289.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_290.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_293.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_294.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_295.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_296.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_297.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_298.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_299.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_300.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_301.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_302.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_303.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_304.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_305.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_306.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_307.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_308.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_309.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_310.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_311.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_312.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_313.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_314.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_315.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_316.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_317.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_318.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_319.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_320.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_322.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_323.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_324.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_325.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_326.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_327.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_328.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_329.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_330.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_331.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_332.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_333.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_334.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_335.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_336.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_337.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_338.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_339.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_340.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_341.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_342.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_343.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_344.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_345.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_346.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_347.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_348.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_349.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_350.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_351.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_352.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_353.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_354.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_355.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_356.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_357.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_358.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_359.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_360.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\webicons_361.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\Images\" />
+    <Folder Include="UI\Controls\" />
+    <Folder Include="UI\Dialogs\Admin\" />
+    <Folder Include="UI\Dialogs\POS\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Imagenes\ksslogo_banner.jpg" />
+    <Content Include="Imagenes\ksslogo_ico.png" />
+    <Content Include="Libs\AutoMapper.7.0.1\lib\net45\AutoMapper.dll" />
+    <Content Include="Libs\AutoMapper.7.0.1\lib\net45\AutoMapper.pdb" />
+    <Content Include="Libs\AutoMapper.7.0.1\lib\net45\AutoMapper.xml" />
+    <Content Include="Libs\Dapper.1.50.5\lib\net451\Dapper.dll" />
+    <Content Include="Libs\Dapper.1.50.5\lib\net451\Dapper.xml" />
+    <Content Include="Libs\Dapper.Contrib.1.50.5\lib\net451\Dapper.Contrib.dll" />
+    <Content Include="Libs\Dapper.Contrib.1.50.5\lib\net451\Dapper.Contrib.xml" />
+    <Content Include="Libs\Dapper.Contrib.1.50.5\lib\netstandard1.3\Dapper.Contrib.dll" />
+    <Content Include="Libs\Dapper.Contrib.1.50.5\lib\netstandard1.3\Dapper.Contrib.xml" />
+    <Content Include="Libs\Dapper.Contrib.1.50.5\lib\netstandard2.0\Dapper.Contrib.dll" />
+    <Content Include="Libs\Dapper.Contrib.1.50.5\lib\netstandard2.0\Dapper.Contrib.xml" />
+    <Content Include="Libs\EntityFramework.6.1.0\lib\net45\EntityFramework.dll" />
+    <Content Include="Libs\EntityFramework.6.1.0\lib\net45\EntityFramework.SqlServer.dll" />
+    <Content Include="Libs\EntityFramework.6.1.0\lib\net45\EntityFramework.SqlServer.xml" />
+    <Content Include="Libs\EntityFramework.6.1.0\lib\net45\EntityFramework.xml" />
+    <Content Include="Libs\MaterialSkin.Net4.1.0.0\lib\net40\MaterialSkin.dll" />
+    <Content Include="Libs\MoralesLarios.Data.1.0.0.2\lib\net452\MoralesLarios.Data.dll" />
+    <Content Include="Libs\MoralesLarios.Data.Dapper.1.0.0.5\lib\net452\MoralesLarios.Data.Dapper.dll" />
+    <Content Include="Libs\Newtonsoft.Json.6.0.8\lib\net45\Newtonsoft.Json.dll" />
+    <Content Include="Libs\Newtonsoft.Json.6.0.8\lib\net45\Newtonsoft.Json.xml" />
+    <Content Include="Libs\System.Data.SQLite.Core.1.0.108.0\lib\net451\System.Data.SQLite.dll" />
+    <Content Include="Libs\System.Data.SQLite.Core.1.0.108.0\lib\net451\System.Data.SQLite.xml" />
+    <Content Include="Libs\System.Data.SQLite.Core.1.0.108.0\lib\net45\System.Data.SQLite.dll" />
+    <Content Include="Libs\System.Data.SQLite.Core.1.0.108.0\lib\net45\System.Data.SQLite.xml" />
+    <Content Include="Libs\System.Data.SQLite.EF6.1.0.108.0\lib\net451\System.Data.SQLite.EF6.dll" />
+    <Content Include="Libs\System.Data.SQLite.EF6.1.0.108.0\lib\net45\System.Data.SQLite.EF6.dll" />
+    <Content Include="Libs\System.Data.SQLite.Linq.1.0.108.0\lib\net451\System.Data.SQLite.Linq.dll" />
+    <Content Include="Libs\System.Data.SQLite.Linq.1.0.108.0\lib\net45\System.Data.SQLite.Linq.dll" />
+    <Content Include="Libs\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.dll" />
+    <Content Include="Libs\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.xml" />
+    <Content Include="Libs\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll" />
+    <Content Include="Libs\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.xml" />
+    <Content Include="Libs\System.Data.SQLite.Core.1.0.108.0\lib\x64\SQLite.Interop.dll" />
+    <Content Include="Libs\System.Data.SQLite.Core.1.0.108.0\lib\x86\SQLite.Interop.dll" />
+    <None Include="Resources\kssClubSocial_Logo-06.png" />
+    <None Include="Resources\kssClubSocial_Logo-05.png" />
+    <None Include="Resources\kssClubSocial_Logo-04.png" />
+    <None Include="Resources\kssClubSocial_Logo-03.png" />
+    <None Include="Resources\kssClubSocial_Logo-02.png" />
+    <None Include="Resources\logo_gris_06.png" />
+    <None Include="Resources\logo_05.png" />
+    <None Include="Resources\logo_03.png" />
+    <None Include="Resources\kssLogo-28.png" />
+    <None Include="Resources\kssLogo-27.png" />
+    <None Include="Resources\kssLogo-26.png" />
+    <None Include="Resources\kssLogo-25.png" />
+    <None Include="Resources\fondo.png" />
+    <None Include="Resources\KssLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\kss_librerias\KSS_Lib\ksslib.vbproj">
+      <Project>{4bfa0b4f-2849-4a52-b9c1-40e7147938f4}</Project>
+      <Name>ksslib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\kss_librerias\KSS_Lib_c\ksslib_c.csproj">
+      <Project>{63bb3aca-4641-43be-bae6-29e62d0d0580}</Project>
+      <Name>ksslib_c</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\kss_librerias\KSS_Lib_c_Design\ksslib_c_design.csproj">
+      <Project>{03aa9670-5a21-4ec1-abba-8b4fab9e0036}</Project>
+      <Name>ksslib_c_design</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\kss librerias\kss_LibKey_c\kssLibKey_c.csproj">
+      <Project>{a7c61bb2-0368-4c35-b951-f2bc3b49515a}</Project>
+      <Name>kssLibKey_c</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\kss_BigPOS\kssBigPOS.Design\kss_BigPOS.Design.csproj">
+      <Project>{a00e8707-386d-4aea-81d2-2a68e576bcbe}</Project>
+      <Name>kss_BigPOS.Design</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\kss_SocialClub.Design\kss_SocialClub.Design.csproj">
+      <Project>{b41e9102-123d-43dd-9410-78d63dda0147}</Project>
+      <Name>kss_SocialClub.Design</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

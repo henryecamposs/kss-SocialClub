@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectDefinaton xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectFileName />
+  <GeneratorVersion>2.1</GeneratorVersion>
+  <ProjectName>Project1</ProjectName>
+  <LastGeneration>2018-09-08T15:36:31.4962085-04:00</LastGeneration>
+  <GenerationPath>D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\Capas\Entidades</GenerationPath>
+  <CodeGenSettings>
+    <DefaultNamespace>kss_SocialClub</DefaultNamespace>
+    <GenerateCustomizablePartial>false</GenerateCustomizablePartial>
+    <CodeGenPatternFile>%APP%\Patterns\EF4 POCO C#\EF4 POCO C# Pattern.dbpat</CodeGenPatternFile>
+    <SelectedPatterns>
+      <string>Database Entity Objects</string>
+      <string>User Entity Objects</string>
+      <string>BaseEntity</string>
+      <string>EntityObjectContext</string>
+    </SelectedPatterns>
+    <GenerateColumnsDescription>true</GenerateColumnsDescription>
+    <GenerateTablesForeignKeys>true</GenerateTablesForeignKeys>
+    <GenerateConstraintKeys>true</GenerateConstraintKeys>
+  </CodeGenSettings>
+  <DbSettions>
+    <DatabaseProvider>SQLite</DatabaseProvider>
+    <DatabaseName>kssClubSocial</DatabaseName>
+    <ServerName>D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\Data\kssClubSocial.db</ServerName>
+    <UseSqlAuthentication>false</UseSqlAuthentication>
+    <SqlUsername />
+    <SqlPassword />
+    <ConnectTimeout>30</ConnectTimeout>
+    <LastFetch>2018-09-08T15:03:17.5711625-04:00</LastFetch>
+    <OracleUseSysdbaRole>false</OracleUseSysdbaRole>
+    <PrefixForTables />
+    <PrefixForViews>vw</PrefixForViews>
+    <SuffixForTables />
+    <SuffixForViews />
+    <IgnoredPrefixes>
+      <string>tbl_</string>
+      <string>tbl</string>
+      <string>vw_</string>
+      <string>vw</string>
+    </IgnoredPrefixes>
+    <IgnoredSuffixes>
+      <string>tbl</string>
+      <string>_tbl</string>
+      <string>_vw</string>
+      <string>vw</string>
+    </IgnoredSuffixes>
+    <Table Selected="true">Areas_Comunes</Table>
+    <Table Selected="true">Cajas</Table>
+    <Table Selected="true">Cajas_Cortes</Table>
+    <Table Selected="true">Cajas_Cortes_DetalleEgreso</Table>
+    <Table Selected="true">Cajas_Cortes_DetalleIngreso</Table>
+    <Table Selected="true">Cajas_Cortes_IF</Table>
+    <Table Selected="true">Cajas_Egresos</Table>
+    <Table Selected="true">Clientes</Table>
+    <Table Selected="true">Clientes_Club</Table>
+    <Table Selected="true">Clientes_Medidas</Table>
+    <Table Selected="true">Empleados</Table>
+    <Table Selected="true">Empleados_Club</Table>
+    <Table Selected="true">Empresa</Table>
+    <Table Selected="true">Estaciones</Table>
+    <Table Selected="true">Estaciones_Dipositivo_VisorPrecios</Table>
+    <Table Selected="true">Estaciones_Dispositivo_Balanza</Table>
+    <Table Selected="true">Estaciones_Dispositivo_Impresora</Table>
+    <Table Selected="true">Estaciones_Dispositivos</Table>
+    <Table Selected="true">Estaciones_Dispositivos_GavetaDinero</Table>
+    <Table Selected="true">Estaciones_Reportes</Table>
+    <Table Selected="true">Estaciones_Sesiones</Table>
+    <Table Selected="true">Estaciones_Sesiones_Detalle</Table>
+    <Table Selected="true">Facturas</Table>
+    <Table Selected="true">Facturas_Descuentos</Table>
+    <Table Selected="true">Facturas_Detalle</Table>
+    <Table Selected="true">Facturas_Detalle_Descuentos</Table>
+    <Table Selected="true">Facturas_Detalle_Impuestos</Table>
+    <Table Selected="true">Facturas_FormasPago</Table>
+    <Table Selected="true">Facturas_IF</Table>
+    <Table Selected="true">Facturas_Impuestos</Table>
+    <Table Selected="true">Facturas_Modificadas</Table>
+    <Table Selected="true">Facturas_Modificadas_IF</Table>
+    <Table Selected="true">Facturas_Servicios</Table>
+    <Table Selected="true">Impuestos</Table>
+    <Table Selected="true">Licencias</Table>
+    <Table Selected="true">modulos</Table>
+    <Table Selected="true">Productos</Table>
+    <Table Selected="true">Productos_Calzado</Table>
+    <Table Selected="true">Productos_Club</Table>
+    <Table Selected="true">productos_Compuestos</Table>
+    <Table Selected="true">Productos_Familias</Table>
+    <Table Selected="true">Productos_Farmacia</Table>
+    <Table Selected="true">Productos_Impuestos</Table>
+    <Table Selected="true">Productos_Marcas</Table>
+    <Table Selected="true">Productos_Supermercado</Table>
+    <Table Selected="true">Registros_Visitas</Table>
+    <Table Selected="true">sqlite_sequence</Table>
+    <Table Selected="true">sqlite_sp_functions</Table>
+    <Table Selected="true">sqlite_stat1</Table>
+    <Table Selected="true">sqlite_stat4</Table>
+    <Table Selected="true">sqlite_vs_links_names</Table>
+    <Table Selected="true">sqlite_vs_properties</Table>
+    <Table Selected="true">tipoComercios</Table>
+    <Table Selected="true">TipoEgreso_Caja</Table>
+    <Table Selected="true">TipoPago</Table>
+    <Table Selected="true">TipoPago_Doc</Table>
+    <Table Selected="true">tipoProductos</Table>
+    <Table Selected="true">tipoServicio_Status</Table>
+    <Table Selected="true">UnidadesMedida</Table>
+    <Table Selected="true">usuarios</Table>
+    <Table Selected="true">usuarios_detalle</Table>
+    <Table Selected="true">Usuarios_Grupo</Table>
+    <Table Selected="true">usuarios_roles</Table>
+    <Table Selected="true">usuarios_rolesModulo</Table>
+    <Table Selected="true">ven_municipios</Table>
+    <Table Selected="true">ven_parroquias</Table>
+    <Table Selected="true">World_idiomas</Table>
+    <Table Selected="true">world_localidades</Table>
+    <Table Selected="true">world_paises</Table>
+    <Table Selected="true">world_profesiones</Table>
+    <Table Selected="true">world_regiones</Table>
+    <Table Selected="true">World_UnidadesMedida</Table>
+  </DbSettions>
+  <RenamingOptions>
+    <UnderlineWordDelimiter>false</UnderlineWordDelimiter>
+    <RemoveUnderline>
+      <Enabled>false</Enabled>
+      <Properties>true</Properties>
+      <Tables>true</Tables>
+    </RemoveUnderline>
+    <CaseChange>
+      <Enabled>false</Enabled>
+      <Properties>true</Properties>
+      <Tables>true</Tables>
+    </CaseChange>
+    <CaseChangeMode>Capitalize</CaseChangeMode>
+  </RenamingOptions>
+</ProjectDefinaton>

@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{548E93B3-44D9-4287-B10D-919E7E7EF7C8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KSS_DataObjects</RootNamespace>
+    <AssemblyName>KSS_DataObjects</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper">
+      <HintPath>..\..\KSS SocialClub\kss SocialClub\Libs\AutoMapper.7.0.1\lib\net45\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Dapper">
+      <HintPath>..\..\KSS SocialClub\kss SocialClub\Libs\Dapper.1.50.5\lib\net451\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Dapper.Contrib">
+      <HintPath>..\..\KSS SocialClub\kss SocialClub\Libs\Dapper.Contrib.1.50.5\lib\net451\Dapper.Contrib.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar.Layout, Version=14.1.0.0, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar2, Version=14.1.0.0, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\..\KSS SocialClub\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\..\KSS SocialClub\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="MoralesLarios.Data">
+      <HintPath>..\..\KSS SocialClub\kss SocialClub\Libs\MoralesLarios.Data.1.0.0.2\lib\net452\MoralesLarios.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MoralesLarios.Data.Dapper">
+      <HintPath>..\..\KSS SocialClub\kss SocialClub\Libs\MoralesLarios.Data.Dapper.1.0.0.5\lib\net452\MoralesLarios.Data.Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\KSS SocialClub\kss SocialClub\Libs\Newtonsoft.Json.6.0.8\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite">
+      <HintPath>..\..\KSS SocialClub\kss SocialClub\Libs\System.Data.SQLite.Core.1.0.108.0\lib\net451\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6">
+      <HintPath>..\..\KSS SocialClub\kss SocialClub\Libs\System.Data.SQLite.EF6.1.0.108.0\lib\net451\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq">
+      <HintPath>..\..\KSS SocialClub\kss SocialClub\Libs\System.Data.SQLite.Linq.1.0.108.0\lib\net451\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ValueTuple, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\KSS SocialClub\kss SocialClub\Libs\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcercaDe.Designer.cs">
+      <DependentUpon>AcercaDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kss SocialClub\Capas\Entidades\Base\kssDBBaseEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\kssDBEntities.cs" />
+    <Compile Include="connectionHelper.cs" />
+    <Compile Include="kss SocialClub\Capas\Datos\Extension Methods\DynamicQuery.cs" />
+    <Compile Include="kss SocialClub\Capas\Datos\Extension Methods\ExecuteDb.cs" />
+    <Compile Include="kss SocialClub\Capas\Datos\Extension Methods\QueryResult.cs" />
+    <Compile Include="kss SocialClub\Capas\Datos\SQlite\Repository Dapper\CurrentRepository.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Base\AttributeHelper.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Areas_ComunesEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\CajasEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Cajas_CortesEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Cajas_Cortes_DetalleEgresoEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Cajas_Cortes_DetalleIngresoEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Cajas_Cortes_IFEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\ClientesEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Clientes_ClubEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\EmpleadosEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Empleados_ClubEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\EmpresaEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\EstacionesEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Estaciones_Dipositivo_VisorPreciosEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Estaciones_DispositivosEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Estaciones_Dispositivos_GavetaDineroEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Estaciones_Dispositivo_BalanzaEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Estaciones_Dispositivo_ImpresoraEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Estaciones_ReportesEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Estaciones_SesionesEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Estaciones_Sesiones_DetalleEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\FacturasEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Facturas_DescuentosEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Facturas_DetalleEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Facturas_Detalle_DescuentosEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Facturas_Detalle_ImpuestosEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Facturas_FormasPagoEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Facturas_IFEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Facturas_ImpuestosEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Facturas_ModificadasEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Facturas_Modificadas_IFEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Facturas_ServiciosEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\ImpuestosEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\LicenciasEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\modulosEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Principal\EntityObjects.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\ProductosEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Productos_CalzadoEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Productos_ClubEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\productos_CompuestosEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Productos_FamiliasEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Productos_FarmaciaEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Productos_ImpuestosEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Productos_MarcasEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Productos_SupermercadoEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Registros_VisitasEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\tipoComerciosEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\TipoPagoEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\TipoPago_DocEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\tipoProductosEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\tipoServicio_StatusEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\UnidadesMedidaEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\usuariosEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\usuarios_detalleEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Usuarios_GrupoEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\usuarios_rolesEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\usuarios_rolesModuloEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Validation\CountryAttribute.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Validation\PhoneAttribute.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Validation\RegexAttribute.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\Validation\validationHelper.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\ven_municipiosEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\ven_parroquiasEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\World_idiomasEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\world_localidadesEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\world_paisesEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\world_profesionesEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\world_regionesEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Entidades\Entities\World_UnidadesMedidaEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Negocio\adapterEntity.cs" />
+    <Compile Include="kss SocialClub\Capas\Negocio\loadAuxDbToListBoxCtrl.cs" />
+    <Compile Include="kss SocialClub\Capas\Negocio\UnitOfWork.cs" />
+    <Compile Include="kss SocialClub\Setting\program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="kss SocialClub\Capas\Datos\SQlite\kssClubSocial.db" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AcercaDe.resx">
+      <DependentUpon>AcercaDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\KssLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\kss_librerias\KSS_Lib\ksslib.vbproj">
+      <Project>{4bfa0b4f-2849-4a52-b9c1-40e7147938f4}</Project>
+      <Name>ksslib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\kss_librerias\KSS_Lib_c\ksslib_c.csproj">
+      <Project>{63bb3aca-4641-43be-bae6-29e62d0d0580}</Project>
+      <Name>ksslib_c</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

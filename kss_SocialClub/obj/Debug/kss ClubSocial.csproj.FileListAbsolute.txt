@@ -1,0 +1,13 @@
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\kss ClubSocial.exe
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\kss ClubSocial.pdb
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\obj\Debug\kss ClubSocial.csprojResolveAssemblyReference.cache
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\obj\Debug\kss_ClubSocial.Form1.resources
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\obj\Debug\kss_ClubSocial.Properties.Resources.resources
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\obj\Debug\kss ClubSocial.csproj.GenerateResource.Cache
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\obj\Debug\kss ClubSocial.csproj.CoreCompileInputs.cache
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\obj\Debug\kss ClubSocial.exe
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\obj\Debug\kss ClubSocial.pdb
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\obj\Debug\kss_ClubSocial.Capas.UI.frmPlantillaDatos.resources
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\obj\Debug\kss_ClubSocial.Capas.UI.frmTemplate.resources

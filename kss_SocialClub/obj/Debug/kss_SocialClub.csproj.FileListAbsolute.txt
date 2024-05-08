@@ -1,0 +1,59 @@
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\obj\Debug\kss_SocialClub.csprojAssemblyReference.cache
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\obj\Debug\kss_SocialClub.frmMain.resources
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\obj\Debug\kss_SocialClub.Properties.Resources.resources
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmAsistencia.resources
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmLogin.resources
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmPOS.resources
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\obj\Debug\kss_A_Ganador.Forms.Plantillas.DialogoOK.resources
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\obj\Debug\kss_A_Ganador.Forms.Plantillas.dlgEdit.resources
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\obj\Debug\kss_SocialClub.csproj.GenerateResource.cache
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\obj\Debug\kss_SocialClub.csproj.CoreCompileInputs.cache
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\POS\BMC\FpCtrl.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\POS\tfhkaif.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\POS\TFHKA\TfhkaNet.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\kss SocialClub.exe.config
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\kss SocialClub.exe
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\kss SocialClub.pdb
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\DevComponents.DotNetBar2.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\DevComponents.SuperGrid.Design.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\kssKeyboard.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\ksslib.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\ksslib_c.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\ksslib_c_design.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\kss_BigPOS.Design.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\kss_SocialClub.Design.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\Newtonsoft.Json.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\System.Data.SQLite.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\System.Data.SQLite.EF6.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\System.Data.SQLite.Linq.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\SpinningProgress.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\TfhkaNet.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\KSS_DataObjects.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\DevComponents.Instrumentation.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\ksslib.pdb
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\ksslib.xml
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\ksslib_c.pdb
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\ksslib_c.dll.config
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\ksslib_c_design.pdb
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\kss_BigPOS.Design.pdb
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\kss_BigPOS.Design.dll.config
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\kss_SocialClub.Design.pdb
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\DevComponents.DotNetBar.Layout.xml
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\DevComponents.DotNetBar2.xml
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\System.Data.SQLite.xml
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\System.Data.SQLite.dll.config
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\KSS_DataObjects.pdb
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\KSS_DataObjects.dll.config
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\bin\Debug\DevComponents.Instrumentation.xml
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\obj\Debug\kss_SocialClub.csproj.CopyComplete
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\obj\Debug\kss SocialClub.exe
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub\obj\Debug\kss SocialClub.pdb

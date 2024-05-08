@@ -1,0 +1,215 @@
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\POS\TFHKA\FpCtrl.dll
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\KSS_DataObjects.dll.config
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\KSS_DataObjects.dll
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\KSS_DataObjects.pdb
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib.dll
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib_c.dll
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\SpinningProgress.dll
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\TfhkaNet.dll
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib.pdb
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib.xml
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib_c.pdb
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib_c.dll.config
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\DevComponents.DotNetBar.Layout.xml
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\es\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\bin\Debug\es\Microsoft.SqlServer.Dmf.resources.dll
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\obj\Debug\KSS_DataObjects.csprojResolveAssemblyReference.cache
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\obj\Debug\KSS_DataObjects.AcercaDe.resources
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\obj\Debug\KSS_DataObjects.Properties.Resources.resources
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\obj\Debug\KSS_DataObjects.csproj.GenerateResource.Cache
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\obj\Debug\KSS_DataObjects.csproj.CoreCompileInputs.cache
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\obj\Debug\KSS_DataObjects.dll
+D:\Proyectos KSS\KSS_DataObjects\KSS_DataObjects\obj\Debug\KSS_DataObjects.pdb
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\obj\Debug\KSS_DataObjects.csprojResolveAssemblyReference.cache
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\obj\Debug\KSS_DataObjects.AcercaDe.resources
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\obj\Debug\KSS_DataObjects.Properties.Resources.resources
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\obj\Debug\KSS_DataObjects.csproj.GenerateResource.Cache
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\obj\Debug\KSS_DataObjects.csproj.CoreCompileInputs.cache
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\POS\TFHKA\FpCtrl.dll
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\KSS_DataObjects.dll.config
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\KSS_DataObjects.dll
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\KSS_DataObjects.pdb
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib.dll
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib_c.dll
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\Newtonsoft.Json.dll
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\SpinningProgress.dll
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\TfhkaNet.dll
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib.pdb
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib.xml
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib_c.pdb
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib_c.dll.config
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\DevComponents.DotNetBar.Layout.xml
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\obj\Debug\KSS_DataObjects.dll
+D:\Projects Local\KSS_DataObjects\KSS_DataObjects\obj\Debug\KSS_DataObjects.pdb
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\POS\BMC\FpCtrl.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\POS\tfhkaif.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\POS\TFHKA\TfhkaNet.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\kss_DataObjects.dll.config
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\kss_DataObjects.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\kss_DataObjects.pdb
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\AutoMapper.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\Dapper.Contrib.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\Dapper.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\DevComponents.DotNetBar2.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\EntityFramework.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\EntityFramework.SqlServer.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib_c.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\MoralesLarios.Data.Dapper.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\MoralesLarios.Data.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\Newtonsoft.Json.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\System.Data.SQLite.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\System.Data.SQLite.EF6.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\System.Data.SQLite.Linq.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\System.ValueTuple.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\SpinningProgress.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\TfhkaNet.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib.pdb
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib.xml
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib_c.pdb
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib_c.dll.config
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\System.Data.SQLite.xml
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\System.Data.SQLite.dll.config
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\obj\Debug\kss_DataObjects.csprojResolveAssemblyReference.cache
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\obj\Debug\kss_DataObjects.AcercaDe.resources
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\obj\Debug\kss_DataObjects.Form1.resources
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\obj\Debug\kss_DataObjects.Properties.Resources.resources
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\obj\Debug\kss_DataObjects.csproj.GenerateResource.Cache
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\obj\Debug\kss_DataObjects.csproj.CoreCompileInputs.cache
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\obj\Debug\kss_DataObjects.dll
+D:\KSS Projects\Net Local Projects\KSS_DataObjects\KSS_DataObjects\obj\Debug\kss_DataObjects.pdb
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\obj\Debug\kss_DataObjects.csprojAssemblyReference.cache
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\obj\Debug\kss_DataObjects.AcercaDe.resources
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\obj\Debug\kss_DataObjects.Form1.resources
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\obj\Debug\kss_DataObjects.Properties.Resources.resources
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\obj\Debug\kss_DataObjects.csproj.GenerateResource.cache
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\obj\Debug\kss_DataObjects.csproj.CoreCompileInputs.cache
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\obj\Debug\kss_DataObjects.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\obj\Debug\kss_DataObjects.pdb
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\POS\BMC\FpCtrl.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\POS\tfhkaif.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\POS\TFHKA\TfhkaNet.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\kss_DataObjects.dll.config
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\kss_DataObjects.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\kss_DataObjects.pdb
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\AutoMapper.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\Dapper.Contrib.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\Dapper.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\DevComponents.DotNetBar2.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\EntityFramework.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\EntityFramework.SqlServer.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib_c.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\MoralesLarios.Data.Dapper.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\MoralesLarios.Data.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\Newtonsoft.Json.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\System.Data.SQLite.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\System.Data.SQLite.EF6.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\System.Data.SQLite.Linq.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\System.ValueTuple.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\SpinningProgress.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\TfhkaNet.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib.pdb
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib.xml
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib_c.pdb
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\ksslib_c.dll.config
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\DevComponents.DotNetBar.Layout.xml
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\DevComponents.DotNetBar2.xml
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\System.Data.SQLite.xml
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\bin\Debug\System.Data.SQLite.dll.config
+D:\KSS Projects\net_local_projects\KSS_DataObjects\KSS_DataObjects\obj\Debug\kss_DataObjects.csproj.CopyComplete
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\POS\BMC\FpCtrl.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\POS\tfhkaif.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\POS\TFHKA\TfhkaNet.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\KSS_DataObjects.dll.config
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\KSS_DataObjects.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\KSS_DataObjects.pdb
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\DevComponents.DotNetBar2.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\ksslib.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\ksslib_c.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\Newtonsoft.Json.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\SpinningProgress.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\TfhkaNet.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\ksslib.pdb
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\ksslib.xml
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\ksslib_c.pdb
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\ksslib_c.dll.config
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\DevComponents.DotNetBar.Layout.xml
+D:\KSS Projects\net_local_projects\KSS_DataObjects\bin\Debug\DevComponents.DotNetBar2.xml
+D:\KSS Projects\net_local_projects\KSS_DataObjects\obj\Debug\KSS_DataObjects.csprojAssemblyReference.cache
+D:\KSS Projects\net_local_projects\KSS_DataObjects\obj\Debug\kss_DataObjects.AcercaDe.resources
+D:\KSS Projects\net_local_projects\KSS_DataObjects\obj\Debug\KSS_DataObjects.Properties.Resources.resources
+D:\KSS Projects\net_local_projects\KSS_DataObjects\obj\Debug\KSS_DataObjects.csproj.GenerateResource.cache
+D:\KSS Projects\net_local_projects\KSS_DataObjects\obj\Debug\KSS_DataObjects.csproj.CoreCompileInputs.cache
+D:\KSS Projects\net_local_projects\KSS_DataObjects\obj\Debug\KSS_DataObjects.csproj.CopyComplete
+D:\KSS Projects\net_local_projects\KSS_DataObjects\obj\Debug\KSS_DataObjects.dll
+D:\KSS Projects\net_local_projects\KSS_DataObjects\obj\Debug\KSS_DataObjects.pdb
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\POS\BMC\FpCtrl.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\POS\tfhkaif.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\POS\TFHKA\TfhkaNet.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\KSS_DataObjects.dll.config
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\KSS_DataObjects.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\KSS_DataObjects.pdb
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\DevComponents.DotNetBar2.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\ksslib.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\ksslib_c.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\Newtonsoft.Json.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\SpinningProgress.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\TfhkaNet.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\ksslib.pdb
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\ksslib.xml
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\ksslib_c.pdb
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\ksslib_c.dll.config
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\DevComponents.DotNetBar.Layout.xml
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\bin\Debug\DevComponents.DotNetBar2.xml
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\obj\Debug\KSS_DataObjects.csprojAssemblyReference.cache
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\obj\Debug\kss_DataObjects.AcercaDe.resources
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\obj\Debug\KSS_DataObjects.Properties.Resources.resources
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\obj\Debug\KSS_DataObjects.csproj.GenerateResource.cache
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\obj\Debug\KSS_DataObjects.csproj.CoreCompileInputs.cache
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\obj\Debug\KSS_DataObjects.csproj.CopyComplete
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\obj\Debug\KSS_DataObjects.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\KSS_DataObjects\obj\Debug\KSS_DataObjects.pdb

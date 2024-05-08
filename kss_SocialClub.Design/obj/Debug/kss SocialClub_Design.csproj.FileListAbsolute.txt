@@ -1,0 +1,173 @@
+D:\Proyectos KSS\kss SocialClub\kss SocialClubDesigner\bin\Debug\kss SocialClub_Design.dll
+D:\Proyectos KSS\kss SocialClub\kss SocialClubDesigner\bin\Debug\kss SocialClub_Design.pdb
+D:\Proyectos KSS\kss SocialClub\kss SocialClubDesigner\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\Proyectos KSS\kss SocialClub\kss SocialClubDesigner\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Proyectos KSS\kss SocialClub\kss SocialClubDesigner\bin\Debug\ksslib.dll
+D:\Proyectos KSS\kss SocialClub\kss SocialClubDesigner\bin\Debug\MaterialSkin.dll
+D:\Proyectos KSS\kss SocialClub\kss SocialClubDesigner\bin\Debug\System.Data.SQLite.dll
+D:\Proyectos KSS\kss SocialClub\kss SocialClubDesigner\bin\Debug\SpinningProgress.dll
+D:\Proyectos KSS\kss SocialClub\kss SocialClubDesigner\bin\Debug\ksslib.pdb
+D:\Proyectos KSS\kss SocialClub\kss SocialClubDesigner\bin\Debug\ksslib.xml
+D:\Proyectos KSS\kss SocialClub\kss SocialClubDesigner\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Proyectos KSS\kss SocialClub\kss SocialClubDesigner\obj\Debug\kss SocialClub_Design.csprojResolveAssemblyReference.cache
+D:\Proyectos KSS\kss SocialClub\kss SocialClubDesigner\obj\Debug\kss_SocialClub_Design.Dialogs.DialogOK_mskin.resources
+D:\Proyectos KSS\kss SocialClub\kss SocialClubDesigner\obj\Debug\kss_SocialClub_Design.Properties.Resources.resources
+D:\Proyectos KSS\kss SocialClub\kss SocialClubDesigner\obj\Debug\kss SocialClub_Design.csproj.GenerateResource.Cache
+D:\Proyectos KSS\kss SocialClub\kss SocialClubDesigner\obj\Debug\kss SocialClub_Design.csproj.CoreCompileInputs.cache
+D:\Proyectos KSS\kss SocialClub\kss SocialClubDesigner\obj\Debug\kss SocialClub_Design.dll
+D:\Proyectos KSS\kss SocialClub\kss SocialClubDesigner\obj\Debug\kss SocialClub_Design.pdb
+D:\HC\My Systems\kss SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.pdb
+D:\HC\My Systems\kss SocialClub\kss SocialClub_Design\bin\Debug\kss SocialClub_Design.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub_Design\bin\Debug\kss SocialClub_Design.pdb
+D:\HC\My Systems\kss SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar2.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub_Design\bin\Debug\ksslib.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub_Design\bin\Debug\MaterialSkin.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub_Design\bin\Debug\System.Data.SQLite.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub_Design\bin\Debug\SpinningProgress.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub_Design\bin\Debug\ksslib.pdb
+D:\HC\My Systems\kss SocialClub\kss SocialClub_Design\bin\Debug\ksslib.xml
+D:\HC\My Systems\kss SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar2.xml
+D:\HC\My Systems\kss SocialClub\kss SocialClub_Design\bin\Debug\System.Data.SQLite.xml
+D:\HC\My Systems\kss SocialClub\kss SocialClub_Design\bin\Debug\System.Data.SQLite.dll.config
+D:\HC\My Systems\kss SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.csprojResolveAssemblyReference.cache
+D:\HC\My Systems\kss SocialClub\kss SocialClub_Design\obj\Debug\kss_SocialClub_Design.Dialogs.DialogOK_mskin.resources
+D:\HC\My Systems\kss SocialClub\kss SocialClub_Design\obj\Debug\kss_SocialClub_Design.Properties.Resources.resources
+D:\HC\My Systems\kss SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.csproj.GenerateResource.Cache
+D:\HC\My Systems\kss SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.csproj.CoreCompileInputs.cache
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub_Design\bin\Debug\kss SocialClub_Design.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub_Design\bin\Debug\kss SocialClub_Design.pdb
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub_Design\bin\Debug\ksslib.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub_Design\bin\Debug\MaterialSkin.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub_Design\bin\Debug\System.Data.SQLite.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub_Design\bin\Debug\SpinningProgress.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub_Design\bin\Debug\ksslib.pdb
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub_Design\bin\Debug\ksslib.xml
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar.Layout.xml
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub_Design\bin\Debug\System.Data.SQLite.xml
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub_Design\bin\Debug\System.Data.SQLite.dll.config
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.csprojResolveAssemblyReference.cache
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub_Design\obj\Debug\kss_SocialClub_Design.Dialogs.DialogOK_mskin.resources
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub_Design\obj\Debug\kss_SocialClub_Design.Properties.Resources.resources
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.csproj.GenerateResource.Cache
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.csproj.CoreCompileInputs.cache
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.pdb
+D:\Projects\KSS SocialClub\kss SocialClub_Design\bin\Debug\kss SocialClub_Design.dll
+D:\Projects\KSS SocialClub\kss SocialClub_Design\bin\Debug\kss SocialClub_Design.pdb
+D:\Projects\KSS SocialClub\kss SocialClub_Design\bin\Debug\ksslib.dll
+D:\Projects\KSS SocialClub\kss SocialClub_Design\bin\Debug\MaterialSkin.dll
+D:\Projects\KSS SocialClub\kss SocialClub_Design\bin\Debug\System.Data.SQLite.dll
+D:\Projects\KSS SocialClub\kss SocialClub_Design\bin\Debug\SpinningProgress.dll
+D:\Projects\KSS SocialClub\kss SocialClub_Design\bin\Debug\ksslib.pdb
+D:\Projects\KSS SocialClub\kss SocialClub_Design\bin\Debug\ksslib.xml
+D:\Projects\KSS SocialClub\kss SocialClub_Design\bin\Debug\System.Data.SQLite.xml
+D:\Projects\KSS SocialClub\kss SocialClub_Design\bin\Debug\System.Data.SQLite.dll.config
+D:\Projects\KSS SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.csprojResolveAssemblyReference.cache
+D:\Projects\KSS SocialClub\kss SocialClub_Design\obj\Debug\kss_SocialClub_Design.Dialogs.DialogOK_mskin.resources
+D:\Projects\KSS SocialClub\kss SocialClub_Design\obj\Debug\kss_SocialClub_Design.Properties.Resources.resources
+D:\Projects\KSS SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.csproj.GenerateResource.Cache
+D:\Projects\KSS SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.csproj.CoreCompileInputs.cache
+D:\Projects\KSS SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.dll
+D:\Projects\KSS SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.pdb
+D:\Projects\KSS SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\Projects\KSS SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Projects\KSS SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar.Layout.xml
+D:\Projects\KSS SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\bin\Debug\kss SocialClub_Design.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\bin\Debug\kss SocialClub_Design.pdb
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\bin\Debug\AutoMapper.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\bin\Debug\ksslib.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\bin\Debug\MaterialSkin.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\bin\Debug\System.Data.SQLite.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\bin\Debug\SpinningProgress.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\bin\Debug\ksslib.pdb
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\bin\Debug\ksslib.xml
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\bin\Debug\AutoMapper.pdb
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\bin\Debug\AutoMapper.xml
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar.Layout.xml
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\bin\Debug\System.Data.SQLite.xml
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\bin\Debug\System.Data.SQLite.dll.config
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.csprojResolveAssemblyReference.cache
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\obj\Debug\kss_SocialClub_Design.Dialogs.DialogOK_mskin.resources
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\obj\Debug\kss_SocialClub_Design.Properties.Resources.resources
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.csproj.GenerateResource.Cache
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.csproj.CoreCompileInputs.cache
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.pdb
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\bin\Debug\kss SocialClub_Design.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\bin\Debug\kss SocialClub_Design.pdb
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\bin\Debug\AutoMapper.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\bin\Debug\ksslib.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\bin\Debug\MaterialSkin.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\bin\Debug\System.Data.SQLite.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\bin\Debug\SpinningProgress.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\bin\Debug\ksslib.pdb
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\bin\Debug\ksslib.xml
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\bin\Debug\AutoMapper.pdb
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\bin\Debug\AutoMapper.xml
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar.Layout.xml
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\bin\Debug\System.Data.SQLite.xml
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\bin\Debug\System.Data.SQLite.dll.config
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.csprojResolveAssemblyReference.cache
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\obj\Debug\kss_SocialClub_Design.Dialogs.DialogOK_mskin.resources
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\obj\Debug\kss_SocialClub_Design.Properties.Resources.resources
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.csproj.GenerateResource.Cache
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.csproj.CoreCompileInputs.cache
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.pdb
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\bin\Debug\kss SocialClub_Design.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\bin\Debug\kss SocialClub_Design.pdb
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\bin\Debug\AutoMapper.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\bin\Debug\ksslib.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\bin\Debug\MaterialSkin.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\bin\Debug\System.Data.SQLite.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\bin\Debug\SpinningProgress.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\bin\Debug\ksslib.pdb
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\bin\Debug\ksslib.xml
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\bin\Debug\AutoMapper.pdb
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\bin\Debug\AutoMapper.xml
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar.Layout.xml
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\bin\Debug\System.Data.SQLite.xml
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\bin\Debug\System.Data.SQLite.dll.config
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.csprojResolveAssemblyReference.cache
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\obj\Debug\kss_SocialClub_Design.Dialogs.DialogOK_mskin.resources
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\obj\Debug\kss_SocialClub_Design.Properties.Resources.resources
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.csproj.GenerateResource.Cache
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.csproj.CoreCompileInputs.cache
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.pdb
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub_Design\bin\Debug\kss SocialClub_Design.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub_Design\bin\Debug\kss SocialClub_Design.pdb
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub_Design\bin\Debug\ksslib.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub_Design\bin\Debug\MaterialSkin.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub_Design\bin\Debug\System.Data.SQLite.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub_Design\bin\Debug\SpinningProgress.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub_Design\bin\Debug\ksslib.pdb
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub_Design\bin\Debug\ksslib.xml
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub_Design\bin\Debug\System.Data.SQLite.xml
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub_Design\bin\Debug\System.Data.SQLite.dll.config
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.csprojResolveAssemblyReference.cache
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub_Design\obj\Debug\kss_SocialClub_Design.Dialogs.DialogOK_mskin.resources
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub_Design\obj\Debug\kss_SocialClub_Design.Properties.Resources.resources
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.csproj.GenerateResource.Cache
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.csproj.CoreCompileInputs.cache
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub_Design\obj\Debug\kss SocialClub_Design.pdb
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub_Design\bin\Debug\AutoMapper.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub_Design\bin\Debug\DevComponents.DotNetBar2.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub_Design\bin\Debug\AutoMapper.xml

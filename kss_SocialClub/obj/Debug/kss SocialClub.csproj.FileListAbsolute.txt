@@ -1,0 +1,657 @@
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\obj\Debug\kss SocialClub.csprojResolveAssemblyReference.cache
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\obj\Debug\kss_SocialClub.frmMain.resources
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\obj\Debug\kss_SocialClub.Properties.Resources.resources
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\obj\Debug\kss_SocialClub.UI.Dialogs.frmAsistencia.resources
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\obj\Debug\kss_SocialClub.UI.Dialogs.frmLogin.resources
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\obj\Debug\kss_SocialClub.UI.Dialogs.frmPOS.resources
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\obj\Debug\kss_A_Ganador.Forms.Plantillas.DialogoOK.resources
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\obj\Debug\kss_A_Ganador.Forms.Plantillas.dlgEdit.resources
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\obj\Debug\kss SocialClub.csproj.GenerateResource.Cache
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\obj\Debug\kss SocialClub.csproj.CoreCompileInputs.cache
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\POS\TFHKA\FpCtrl.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\kss SocialClub.exe.config
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\kss SocialClub.exe
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\kss SocialClub.pdb
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\AutoMapper.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\Dapper.Contrib.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\Dapper.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\DevComponents.Instrumentation.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\EntityFramework.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\kss SocialClubDesigner.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\kssBigPOSDesign.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\ksslib.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\ksslib_c.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\MaterialSkin.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\MoralesLarios.Data.Dapper.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\MoralesLarios.Data.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\System.Data.SQLite.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\System.ValueTuple.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\TfhkaNet.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\kssBigPOSDesign.pdb
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\kssBigPOSDesign.dll.config
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\kss SocialClubDesigner.pdb
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\ksslib_c.pdb
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\ksslib_c.dll.config
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\AutoMapper.pdb
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\AutoMapper.xml
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\Dapper.xml
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\Dapper.Contrib.xml
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\DevComponents.Instrumentation.xml
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\EntityFramework.xml
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\ksslib.pdb
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\ksslib.xml
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\System.Data.SQLite.xml
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\System.Data.SQLite.dll.config
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\System.ValueTuple.xml
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\obj\Debug\kss SocialClub.exe
+D:\Proyectos KSS\kss ClubSocial\kss ClubSocial\obj\Debug\kss SocialClub.pdb
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\obj\Debug\kss SocialClub.csprojResolveAssemblyReference.cache
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\obj\Debug\kss_SocialClub.frmMain.resources
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\obj\Debug\kss_SocialClub.Properties.Resources.resources
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\obj\Debug\kss_SocialClub.UI.Dialogs.frmAsistencia.resources
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\obj\Debug\kss_SocialClub.UI.Dialogs.frmLogin.resources
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\obj\Debug\kss_SocialClub.UI.Dialogs.frmPOS.resources
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\obj\Debug\kss_A_Ganador.Forms.Plantillas.DialogoOK.resources
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\obj\Debug\kss_A_Ganador.Forms.Plantillas.dlgEdit.resources
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\obj\Debug\kss SocialClub.csproj.GenerateResource.Cache
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\obj\Debug\kss SocialClub.csproj.CoreCompileInputs.cache
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\POS\TFHKA\FpCtrl.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\kss SocialClub.exe.config
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\kss SocialClub.exe
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\kss SocialClub.pdb
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\AutoMapper.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\Dapper.Contrib.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\Dapper.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\DevComponents.Instrumentation.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\EntityFramework.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\kss BigPOS_Design.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\kss SocialClub_Design.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\ksslib.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\ksslib_c.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\ksslib_c_design.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\MaterialSkin.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\MoralesLarios.Data.Dapper.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\MoralesLarios.Data.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\System.Data.SQLite.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\System.ValueTuple.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\TfhkaNet.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\ksslib_c.pdb
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\ksslib_c.dll.config
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\ksslib_c_design.pdb
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\kss BigPOS_Design.pdb
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\kss BigPOS_Design.dll.config
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\kss SocialClub_Design.pdb
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\AutoMapper.pdb
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\AutoMapper.xml
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\Dapper.xml
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\Dapper.Contrib.xml
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\DevComponents.Instrumentation.xml
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\EntityFramework.xml
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\ksslib.pdb
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\ksslib.xml
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\System.Data.SQLite.xml
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\System.Data.SQLite.dll.config
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\System.ValueTuple.xml
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\obj\Debug\kss SocialClub.exe
+D:\Proyectos KSS\KSS SocialClub\kss ClubSocial\obj\Debug\kss SocialClub.pdb
+D:\HC\My Systems\kss SocialClub\kss ClubSocial\obj\Debug\kss SocialClub.csprojResolveAssemblyReference.cache
+D:\HC\My Systems\kss SocialClub\kss ClubSocial\obj\Debug\kss_SocialClub.frmMain.resources
+D:\HC\My Systems\kss SocialClub\kss ClubSocial\obj\Debug\kss_SocialClub.Properties.Resources.resources
+D:\HC\My Systems\kss SocialClub\kss ClubSocial\obj\Debug\kss_SocialClub.UI.Dialogs.frmAsistencia.resources
+D:\HC\My Systems\kss SocialClub\kss ClubSocial\obj\Debug\kss_SocialClub.UI.Dialogs.frmLogin.resources
+D:\HC\My Systems\kss SocialClub\kss ClubSocial\obj\Debug\kss_SocialClub.UI.Dialogs.frmPOS.resources
+D:\HC\My Systems\kss SocialClub\kss ClubSocial\obj\Debug\kss_A_Ganador.Forms.Plantillas.DialogoOK.resources
+D:\HC\My Systems\kss SocialClub\kss ClubSocial\obj\Debug\kss_A_Ganador.Forms.Plantillas.dlgEdit.resources
+D:\HC\My Systems\kss SocialClub\kss ClubSocial\obj\Debug\kss SocialClub.csproj.GenerateResource.Cache
+D:\HC\My Systems\kss SocialClub\kss ClubSocial\obj\Debug\kss SocialClub.csproj.CoreCompileInputs.cache
+D:\HC\My Systems\kss SocialClub\kss ClubSocial\obj\Debug\kss SocialClub.exe
+D:\HC\My Systems\kss SocialClub\kss ClubSocial\obj\Debug\kss SocialClub.pdb
+D:\HC\My Systems\kss SocialClub\kss SocialClub\obj\Debug\kss SocialClub.csprojResolveAssemblyReference.cache
+D:\HC\My Systems\kss SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.frmMain.resources
+D:\HC\My Systems\kss SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.Properties.Resources.resources
+D:\HC\My Systems\kss SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmAsistencia.resources
+D:\HC\My Systems\kss SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmLogin.resources
+D:\HC\My Systems\kss SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmPOS.resources
+D:\HC\My Systems\kss SocialClub\kss SocialClub\obj\Debug\kss_A_Ganador.Forms.Plantillas.DialogoOK.resources
+D:\HC\My Systems\kss SocialClub\kss SocialClub\obj\Debug\kss_A_Ganador.Forms.Plantillas.dlgEdit.resources
+D:\HC\My Systems\kss SocialClub\kss SocialClub\obj\Debug\kss SocialClub.csproj.GenerateResource.Cache
+D:\HC\My Systems\kss SocialClub\kss SocialClub\obj\Debug\kss SocialClub.csproj.CoreCompileInputs.cache
+D:\HC\My Systems\kss SocialClub\kss SocialClub\obj\Debug\kss SocialClub.exe
+D:\HC\My Systems\kss SocialClub\kss SocialClub\obj\Debug\kss SocialClub.pdb
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\POS\TFHKA\FpCtrl.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\kss SocialClub.exe.config
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\kss SocialClub.exe
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\kss SocialClub.pdb
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\AutoMapper.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\Dapper.Contrib.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\Dapper.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar2.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\DevComponents.Instrumentation.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\EntityFramework.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\Kss BigPOS.exe
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\kss SocialClub_Design.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\ksslib.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\kssLibKey_c.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\ksslib_c.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\ksslib_c_design.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\MaterialSkin.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\MoralesLarios.Data.Dapper.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\MoralesLarios.Data.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\Newtonsoft.Json.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.EF6.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.Linq.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\System.ValueTuple.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\kssEF61.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\kssKeyboard.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\kss BigPOS_Design.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\Splash.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\SpinningProgress.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\TfhkaNet.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\Kss BigPOS.pdb
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\Kss BigPOS.exe.config
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\kssLibKey_c.pdb
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\ksslib_c_design.pdb
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\kss SocialClub_Design.pdb
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\ksslib.pdb
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\ksslib.xml
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\ksslib_c.pdb
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\ksslib_c.dll.config
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\AutoMapper.pdb
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\AutoMapper.xml
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\Dapper.xml
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\Dapper.Contrib.xml
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar2.xml
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\DevComponents.Instrumentation.xml
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\EntityFramework.xml
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\Newtonsoft.Json.xml
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.xml
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.dll.config
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\System.ValueTuple.xml
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\kssEF61.pdb
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\kssEF61.dll.config
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\kssKeyboard.pdb
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\kss BigPOS_Design.pdb
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\kss BigPOS_Design.dll.config
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\Splash.pdb
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\Splash.dll.config
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\es\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClub\bin\Debug\es\Microsoft.SqlServer.Dmf.resources.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\obj\Debug\kss SocialClub.csprojResolveAssemblyReference.cache
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.frmMain.resources
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.Properties.Resources.resources
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmAsistencia.resources
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmLogin.resources
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmPOS.resources
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\obj\Debug\kss_A_Ganador.Forms.Plantillas.DialogoOK.resources
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\obj\Debug\kss_A_Ganador.Forms.Plantillas.dlgEdit.resources
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\obj\Debug\kss SocialClub.csproj.GenerateResource.Cache
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\obj\Debug\kss SocialClub.csproj.CoreCompileInputs.cache
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\POS\TFHKA\FpCtrl.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\kss SocialClub.exe.config
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\kss SocialClub.exe
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\kss SocialClub.pdb
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\AutoMapper.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\Dapper.Contrib.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\Dapper.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\DevComponents.Instrumentation.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\EntityFramework.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\Kss BigPOS.exe
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\kss BigPOS_Design.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\kss SocialClub_Design.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\ksslib.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\kssLibKey_c.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\ksslib_c.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\ksslib_c_design.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\MaterialSkin.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\MoralesLarios.Data.Dapper.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\MoralesLarios.Data.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\System.ValueTuple.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\kssEF61.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\kssKeyboard.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\Splash.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\SpinningProgress.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\TfhkaNet.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\Kss BigPOS.pdb
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\Kss BigPOS.exe.config
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\kss BigPOS_Design.pdb
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\kss BigPOS_Design.dll.config
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\kssLibKey_c.pdb
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\ksslib_c_design.pdb
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\kss SocialClub_Design.pdb
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\ksslib.pdb
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\ksslib.xml
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\ksslib_c.pdb
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\ksslib_c.dll.config
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\AutoMapper.pdb
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\AutoMapper.xml
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\Dapper.xml
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\Dapper.Contrib.xml
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar.Layout.xml
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\DevComponents.Instrumentation.xml
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\EntityFramework.xml
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.xml
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.dll.config
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\System.ValueTuple.xml
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\kssEF61.pdb
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\kssEF61.dll.config
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\kssKeyboard.pdb
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\Splash.pdb
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\bin\Debug\Splash.dll.config
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\obj\Debug\kss SocialClub.exe
+D:\Proyectos KSS\KSS SocialClub\kss SocialClub\obj\Debug\kss SocialClub.pdb
+D:\Projects\KSS SocialClub\kss SocialClub\obj\Debug\kss SocialClub.csprojResolveAssemblyReference.cache
+D:\Projects\KSS SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.frmMain.resources
+D:\Projects\KSS SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.Properties.Resources.resources
+D:\Projects\KSS SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmAsistencia.resources
+D:\Projects\KSS SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmLogin.resources
+D:\Projects\KSS SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmPOS.resources
+D:\Projects\KSS SocialClub\kss SocialClub\obj\Debug\kss_A_Ganador.Forms.Plantillas.DialogoOK.resources
+D:\Projects\KSS SocialClub\kss SocialClub\obj\Debug\kss_A_Ganador.Forms.Plantillas.dlgEdit.resources
+D:\Projects\KSS SocialClub\kss SocialClub\obj\Debug\kss SocialClub.csproj.GenerateResource.Cache
+D:\Projects\KSS SocialClub\kss SocialClub\obj\Debug\kss SocialClub.csproj.CoreCompileInputs.cache
+D:\Projects\KSS SocialClub\kss SocialClub\obj\Debug\kss SocialClub.exe
+D:\Projects\KSS SocialClub\kss SocialClub\obj\Debug\kss SocialClub.pdb
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\POS\TFHKA\FpCtrl.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\kss SocialClub.exe.config
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\kss SocialClub.exe
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\kss SocialClub.pdb
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\AutoMapper.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\Dapper.Contrib.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\Dapper.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\EntityFramework.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\Kss BigPOS.exe
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\kss BigPOS_Design.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\kss SocialClub_Design.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\ksslib.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\kssLibKey_c.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\ksslib_c.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\ksslib_c_design.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\MaterialSkin.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\MoralesLarios.Data.Dapper.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\MoralesLarios.Data.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\System.ValueTuple.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\kssEF61.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\kssKeyboard.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\Splash.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\SpinningProgress.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\TfhkaNet.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\Kss BigPOS.pdb
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\Kss BigPOS.exe.config
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\kss BigPOS_Design.pdb
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\kss BigPOS_Design.dll.config
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\kssLibKey_c.pdb
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\ksslib_c_design.pdb
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\kss SocialClub_Design.pdb
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\ksslib.pdb
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\ksslib.xml
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\ksslib_c.pdb
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\ksslib_c.dll.config
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\AutoMapper.pdb
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\AutoMapper.xml
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\Dapper.xml
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\Dapper.Contrib.xml
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar.Layout.xml
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\DevComponents.Instrumentation.xml
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\EntityFramework.xml
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.xml
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.dll.config
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\System.ValueTuple.xml
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\kssEF61.pdb
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\kssEF61.dll.config
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\kssKeyboard.pdb
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\Splash.pdb
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\Splash.dll.config
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Projects\KSS SocialClub\kss SocialClub\bin\Debug\DevComponents.Instrumentation.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\POS\TFHKA\FpCtrl.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\Data\db\kssClubSocial.db
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\kss SocialClub.exe.config
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\kss SocialClub.exe
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\kss SocialClub.pdb
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\AutoMapper.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\Dapper.Contrib.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\Dapper.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\DevComponents.Instrumentation.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\EntityFramework.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\Kss BigPOS.exe
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\kss BigPOS_Design.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\kss SocialClub_Design.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\ksslib.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\kssLibKey_c.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\ksslib_c.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\ksslib_c_design.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\MaterialSkin.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\MoralesLarios.Data.Dapper.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\MoralesLarios.Data.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\Newtonsoft.Json.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\System.ValueTuple.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\kssEF61.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\kssKeyboard.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\Splash.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\KSS_DataObjects.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\SpinningProgress.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\TfhkaNet.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\Kss BigPOS.pdb
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\Kss BigPOS.exe.config
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\kss BigPOS_Design.pdb
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\kss BigPOS_Design.dll.config
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\kssLibKey_c.pdb
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\ksslib.pdb
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\ksslib.xml
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\ksslib_c.pdb
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\ksslib_c.dll.config
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\ksslib_c_design.pdb
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\kss SocialClub_Design.pdb
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\AutoMapper.pdb
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\AutoMapper.xml
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\Dapper.xml
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\Dapper.Contrib.xml
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar.Layout.xml
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\DevComponents.Instrumentation.xml
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\EntityFramework.xml
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\Newtonsoft.Json.xml
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.xml
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.dll.config
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\System.ValueTuple.xml
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\kssEF61.pdb
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\kssEF61.dll.config
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\kssKeyboard.pdb
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\Splash.pdb
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\Splash.dll.config
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\KSS_DataObjects.pdb
+D:\Projects Local\KSS SocialClub\kss SocialClub\bin\Debug\KSS_DataObjects.dll.config
+D:\Projects Local\KSS SocialClub\kss SocialClub\obj\Debug\kss SocialClub.csprojResolveAssemblyReference.cache
+D:\Projects Local\KSS SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.frmMain.resources
+D:\Projects Local\KSS SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.Properties.Resources.resources
+D:\Projects Local\KSS SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmAsistencia.resources
+D:\Projects Local\KSS SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmLogin.resources
+D:\Projects Local\KSS SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmPOS.resources
+D:\Projects Local\KSS SocialClub\kss SocialClub\obj\Debug\kss_A_Ganador.Forms.Plantillas.DialogoOK.resources
+D:\Projects Local\KSS SocialClub\kss SocialClub\obj\Debug\kss_A_Ganador.Forms.Plantillas.dlgEdit.resources
+D:\Projects Local\KSS SocialClub\kss SocialClub\obj\Debug\kss SocialClub.csproj.GenerateResource.Cache
+D:\Projects Local\KSS SocialClub\kss SocialClub\obj\Debug\kss SocialClub.csproj.CoreCompileInputs.cache
+D:\Projects Local\KSS SocialClub\kss SocialClub\obj\Debug\kss SocialClub.exe
+D:\Projects Local\KSS SocialClub\kss SocialClub\obj\Debug\kss SocialClub.pdb
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\POS\TFHKA\FpCtrl.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\Data\db\kssClubSocial.db
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\kss SocialClub.exe.config
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\kss SocialClub.exe
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\kss SocialClub.pdb
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\AutoMapper.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\Dapper.Contrib.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\Dapper.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\DevComponents.Instrumentation.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\EntityFramework.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\Kss BigPOS.exe
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\kss BigPOS_Design.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\kss SocialClub_Design.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\ksslib.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\kssLibKey_c.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\ksslib_c.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\ksslib_c_design.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\MaterialSkin.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\MoralesLarios.Data.Dapper.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\MoralesLarios.Data.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\System.ValueTuple.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\SpinningProgress.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\TfhkaNet.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\KSS_DataObjects.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\kssKeyboard.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\Splash.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\kssLibKey_c.pdb
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\ksslib.pdb
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\ksslib.xml
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\ksslib_c.pdb
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\ksslib_c.dll.config
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\ksslib_c_design.pdb
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\Kss BigPOS.pdb
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\Kss BigPOS.exe.config
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\kss BigPOS_Design.pdb
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\kss BigPOS_Design.dll.config
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\kss SocialClub_Design.pdb
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\AutoMapper.pdb
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\AutoMapper.xml
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\Dapper.xml
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\Dapper.Contrib.xml
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar.Layout.xml
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\DevComponents.Instrumentation.xml
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\EntityFramework.xml
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.xml
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.dll.config
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\System.ValueTuple.xml
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\KSS_DataObjects.pdb
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\KSS_DataObjects.dll.config
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\kssKeyboard.pdb
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\Splash.pdb
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\Splash.dll.config
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\es\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\bin\Debug\es\Microsoft.SqlServer.Dmf.resources.dll
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\obj\Debug\kss SocialClub.csprojResolveAssemblyReference.cache
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.frmMain.resources
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.Properties.Resources.resources
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmAsistencia.resources
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmLogin.resources
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmPOS.resources
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\obj\Debug\kss_A_Ganador.Forms.Plantillas.DialogoOK.resources
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\obj\Debug\kss_A_Ganador.Forms.Plantillas.dlgEdit.resources
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\obj\Debug\kss SocialClub.csproj.GenerateResource.Cache
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\obj\Debug\kss SocialClub.csproj.CoreCompileInputs.cache
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\obj\Debug\kss SocialClub.exe
+D:\Proyectos KSS\KSS_SocialClub\kss SocialClub\obj\Debug\kss SocialClub.pdb
+D:\Projects Local\KSS_SocialClub\kss SocialClub\obj\Debug\kss SocialClub.csprojResolveAssemblyReference.cache
+D:\Projects Local\KSS_SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.frmMain.resources
+D:\Projects Local\KSS_SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.Properties.Resources.resources
+D:\Projects Local\KSS_SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmAsistencia.resources
+D:\Projects Local\KSS_SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmLogin.resources
+D:\Projects Local\KSS_SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmPOS.resources
+D:\Projects Local\KSS_SocialClub\kss SocialClub\obj\Debug\kss_A_Ganador.Forms.Plantillas.DialogoOK.resources
+D:\Projects Local\KSS_SocialClub\kss SocialClub\obj\Debug\kss_A_Ganador.Forms.Plantillas.dlgEdit.resources
+D:\Projects Local\KSS_SocialClub\kss SocialClub\obj\Debug\kss SocialClub.csproj.GenerateResource.Cache
+D:\Projects Local\KSS_SocialClub\kss SocialClub\obj\Debug\kss SocialClub.csproj.CoreCompileInputs.cache
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\POS\TFHKA\FpCtrl.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\Data\db\kssClubSocial.db
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\AutoMapper.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\Dapper.Contrib.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\Dapper.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\DevComponents.Instrumentation.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\EntityFramework.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\Kss BigPOS.exe
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\kss BigPOS_Design.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\kss SocialClub_Design.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\ksslib.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\kssLibKey_c.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\ksslib_c.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\ksslib_c_design.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\MaterialSkin.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\MoralesLarios.Data.Dapper.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\MoralesLarios.Data.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\Newtonsoft.Json.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\System.ValueTuple.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\SpinningProgress.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\TfhkaNet.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\kssEF61.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\kssKeyboard.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\Splash.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\KSS_DataObjects.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\kssLibKey_c.pdb
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\ksslib.pdb
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\ksslib.xml
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\ksslib_c.pdb
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\ksslib_c.dll.config
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\ksslib_c_design.pdb
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\Kss BigPOS.pdb
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\Kss BigPOS.exe.config
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\kss BigPOS_Design.pdb
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\kss BigPOS_Design.dll.config
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\kss SocialClub_Design.pdb
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\AutoMapper.pdb
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\AutoMapper.xml
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\Dapper.xml
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\Dapper.Contrib.xml
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar.Layout.xml
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\DevComponents.Instrumentation.xml
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\EntityFramework.xml
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\Newtonsoft.Json.xml
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.xml
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.dll.config
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\System.ValueTuple.xml
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\kssEF61.pdb
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\kssEF61.dll.config
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\kssKeyboard.pdb
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\Splash.pdb
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\Splash.dll.config
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\KSS_DataObjects.pdb
+D:\Projects Local\KSS_SocialClub\kss SocialClub\bin\Debug\KSS_DataObjects.dll.config
+D:\Projects Local\KSS_SocialClub\kss SocialClub\obj\Debug\kss SocialClub.exe
+D:\Projects Local\KSS_SocialClub\kss SocialClub\obj\Debug\kss SocialClub.pdb
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\POS\TFHKA\FpCtrl.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\kss SocialClub.exe.config
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\kss SocialClub.exe
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\kss SocialClub.pdb
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar2.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\DevComponents.SuperGrid.Design.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\Kss BigPOS.exe
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\kss BigPOS_Design.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\kss SocialClub_Design.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\kssKeyboard.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\ksslib.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\kssLibKey_c.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\ksslib_c.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\ksslib_c_design.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\Newtonsoft.Json.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.EF6.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.Linq.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\SpinningProgress.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\TfhkaNet.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\kssEF61.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\Splash.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\KSS_DataObjects.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\DevComponents.Instrumentation.dll
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\kssLibKey_c.pdb
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\ksslib.pdb
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\ksslib.xml
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\ksslib_c.pdb
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\ksslib_c.dll.config
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\ksslib_c_design.pdb
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\Kss BigPOS.pdb
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\Kss BigPOS.exe.config
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\kss BigPOS_Design.pdb
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\kss BigPOS_Design.dll.config
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\kss SocialClub_Design.pdb
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.xml
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\System.Data.SQLite.dll.config
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\kssEF61.pdb
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\kssEF61.dll.config
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\Splash.pdb
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\Splash.dll.config
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\KSS_DataObjects.pdb
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\KSS_DataObjects.dll.config
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\bin\Debug\DevComponents.Instrumentation.xml
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\obj\Debug\kss SocialClub.csprojResolveAssemblyReference.cache
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.frmMain.resources
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.Properties.Resources.resources
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmAsistencia.resources
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmLogin.resources
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\obj\Debug\kss_SocialClub.UI.Dialogs.frmPOS.resources
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\obj\Debug\kss_A_Ganador.Forms.Plantillas.DialogoOK.resources
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\obj\Debug\kss_A_Ganador.Forms.Plantillas.dlgEdit.resources
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\obj\Debug\kss SocialClub.csproj.GenerateResource.Cache
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\obj\Debug\kss SocialClub.csproj.CoreCompileInputs.cache
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\obj\Debug\kss SocialClub.exe
+D:\KSS Projects\Net Local Projects\kss_SocialClub\kss SocialClub\obj\Debug\kss SocialClub.pdb

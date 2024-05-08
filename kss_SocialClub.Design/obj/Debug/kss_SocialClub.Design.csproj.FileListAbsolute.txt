@@ -1,0 +1,17 @@
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub.Design\bin\Debug\kss_SocialClub.Design.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub.Design\bin\Debug\kss_SocialClub.Design.pdb
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub.Design\bin\Debug\AutoMapper.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub.Design\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub.Design\bin\Debug\DevComponents.DotNetBar2.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub.Design\bin\Debug\MaterialSkin.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub.Design\bin\Debug\AutoMapper.xml
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub.Design\bin\Debug\DevComponents.DotNetBar.Layout.xml
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub.Design\bin\Debug\DevComponents.DotNetBar2.xml
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub.Design\obj\Debug\kss_SocialClub.Design.csprojAssemblyReference.cache
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub.Design\obj\Debug\kss_SocialClub_Design.Dialogs.DialogOK_mskin.resources
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub.Design\obj\Debug\kss_SocialClub.Design.Properties.Resources.resources
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub.Design\obj\Debug\kss_SocialClub.Design.csproj.GenerateResource.cache
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub.Design\obj\Debug\kss_SocialClub.Design.csproj.CoreCompileInputs.cache
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub.Design\obj\Debug\kss_SocialClub.Design.csproj.CopyComplete
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub.Design\obj\Debug\kss_SocialClub.Design.dll
+D:\KSS Projects\net_local_projects\kss_SocialClub\kss_SocialClub.Design\obj\Debug\kss_SocialClub.Design.pdb

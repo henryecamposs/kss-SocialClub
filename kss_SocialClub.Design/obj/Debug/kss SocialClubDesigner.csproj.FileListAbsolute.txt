@@ -1,0 +1,31 @@
+D:\Proyectos KSS\kss ClubSocial\kss SocialClubDesigner\obj\Debug\kss SocialClubDesigner.csprojResolveAssemblyReference.cache
+D:\Proyectos KSS\kss ClubSocial\kss SocialClubDesigner\obj\Debug\kss_SocialClubDesigner.LabelDatoPpal.resources
+D:\Proyectos KSS\kss ClubSocial\kss SocialClubDesigner\obj\Debug\kss_SocialClub.UI.Controls.LabelStadistica.resources
+D:\Proyectos KSS\kss ClubSocial\kss SocialClubDesigner\obj\Debug\kss_SocialClubDesigner.Dialogs.DialogOK_mskin.resources
+D:\Proyectos KSS\kss ClubSocial\kss SocialClubDesigner\obj\Debug\kss_SocialClubDesigner.Properties.Resources.resources
+D:\Proyectos KSS\kss ClubSocial\kss SocialClubDesigner\obj\Debug\kss_SocialClub.UI.Controls.UserControl1.resources
+D:\Proyectos KSS\kss ClubSocial\kss SocialClubDesigner\obj\Debug\kss SocialClubDesigner.csproj.GenerateResource.Cache
+D:\Proyectos KSS\kss ClubSocial\kss SocialClubDesigner\obj\Debug\kss SocialClubDesigner.csproj.CoreCompileInputs.cache
+D:\Proyectos KSS\kss ClubSocial\kss SocialClubDesigner\bin\Debug\kss SocialClubDesigner.dll
+D:\Proyectos KSS\kss ClubSocial\kss SocialClubDesigner\bin\Debug\kss SocialClubDesigner.pdb
+D:\Proyectos KSS\kss ClubSocial\kss SocialClubDesigner\bin\Debug\ksslib.dll
+D:\Proyectos KSS\kss ClubSocial\kss SocialClubDesigner\bin\Debug\MaterialSkin.dll
+D:\Proyectos KSS\kss ClubSocial\kss SocialClubDesigner\bin\Debug\ksslib.pdb
+D:\Proyectos KSS\kss ClubSocial\kss SocialClubDesigner\bin\Debug\ksslib.xml
+D:\Proyectos KSS\kss ClubSocial\kss SocialClubDesigner\obj\Debug\kss SocialClubDesigner.dll
+D:\Proyectos KSS\kss ClubSocial\kss SocialClubDesigner\obj\Debug\kss SocialClubDesigner.pdb
+D:\HC\My Systems\kss SocialClub\kss SocialClubDesigner\obj\Debug\kss SocialClubDesigner.csprojResolveAssemblyReference.cache
+D:\HC\My Systems\kss SocialClub\kss SocialClubDesigner\obj\Debug\kss SocialClubDesigner.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClubDesigner\obj\Debug\kss SocialClubDesigner.pdb
+D:\HC\My Systems\kss SocialClub\kss SocialClubDesigner\bin\Debug\kss SocialClubDesigner.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClubDesigner\bin\Debug\kss SocialClubDesigner.pdb
+D:\HC\My Systems\kss SocialClub\kss SocialClubDesigner\bin\Debug\ksslib.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClubDesigner\bin\Debug\MaterialSkin.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClubDesigner\bin\Debug\System.Data.SQLite.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClubDesigner\bin\Debug\SpinningProgress.dll
+D:\HC\My Systems\kss SocialClub\kss SocialClubDesigner\bin\Debug\ksslib.pdb
+D:\HC\My Systems\kss SocialClub\kss SocialClubDesigner\bin\Debug\ksslib.xml
+D:\HC\My Systems\kss SocialClub\kss SocialClubDesigner\obj\Debug\kss_SocialClub_Design.Dialogs.DialogOK_mskin.resources
+D:\HC\My Systems\kss SocialClub\kss SocialClubDesigner\obj\Debug\kss_SocialClubDesigner.Properties.Resources.resources
+D:\HC\My Systems\kss SocialClub\kss SocialClubDesigner\obj\Debug\kss SocialClubDesigner.csproj.GenerateResource.Cache
+D:\HC\My Systems\kss SocialClub\kss SocialClubDesigner\obj\Debug\kss SocialClubDesigner.csproj.CoreCompileInputs.cache
